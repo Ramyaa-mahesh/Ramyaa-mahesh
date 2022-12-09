@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramyaa</h1>
 <h3 align="center">A passionate Software Developer with Python from India</h3>
 
-<img align="right" alt="coding" width="400"src="![image](https://user-images.githubusercontent.com/103843521/206743812-8dc2664a-32c9-41de-9818-03ee54eb1d17.png)
-">
+<img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/103843521/206743812-8dc2664a-32c9-41de-9818-03ee54eb1d17.png">
+
 
 
 
