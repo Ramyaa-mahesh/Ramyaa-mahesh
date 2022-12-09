@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramyaa</h1>
 <h3 align="center">A passionate Software Developer with Python from India</h3>
 
-
-
-<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif
-
-
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 👀 I’m interested in **Software Development**
@@ -19,14 +14,11 @@
 - 📄 Know about my experiences [Ramyaa.resume.pdf](Ramyaa.resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
-
-                                                  
+                                                
  <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
                                                  
                                                   
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa-mahesh" /> </p>
 
