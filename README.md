@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramyaa</h1>
 <h3 align="center">A passionate Software Developer with Python from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/103843521/206761076-4d02dad6-0468-4314-ab6a-ce080175f0ae.gif">
+<img align="right" alt="Coding" width="350" src="!https://user-images.githubusercontent.com/103843521/206761839-a9f5622d-9407-4cb0-8d4d-6f55d6854973.gif)"
+
+
+
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
