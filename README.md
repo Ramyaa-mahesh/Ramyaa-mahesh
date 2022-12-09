@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="!https://user-images.githubusercontent.com/103843521/206762740-f3afc6e7-41b6-4e63-9e0c-ed02aa1507fd.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble.gif">
 
 
 
