@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramyaa</h1>
 <h3 align="center">A passionate Software Developer with Python from India</h3>
 
-<img align="right" alt="Coding" width="400"src="C:\Users\ramya\Downloads\programming.gif">
+<img align="right" alt="coding" width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 
