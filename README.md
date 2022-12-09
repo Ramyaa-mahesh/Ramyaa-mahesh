@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramyaa</h1>
 <h3 align="center">A passionate Software Developer with Python from India</h3>
 
-<img align="right" alt="Coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw0PwYUXklNIFnQdfZvQFS5F&ust=1670663588612000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODM__-Y7PsCFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa-mahesh" /> </p>
 
