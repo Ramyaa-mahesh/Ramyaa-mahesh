@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/en-IN/view/programming-gif-25868426/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://tenor.com/en-IN/view/programming-gif-25868426 text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 
