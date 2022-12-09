@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramyaa</h1>
 <h3 align="center">A passionate Software Developer with Python from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/103843521/206761076-4d02dad6-0468-4314-ab6a-ce080175f0ae.png">
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa-mahesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramyaa-mahesh" alt="ramyaa-mahesh" /></a> </p>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/103843521/206761076-4d02dad6-0468-4314-ab6a-ce080175f0ae.gif">
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
@@ -24,6 +16,14 @@
 - 📄 Know about my experiences [Ramyaa.resume.pdf](Ramyaa.resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa-mahesh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramyaa-mahesh" alt="ramyaa-mahesh" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
