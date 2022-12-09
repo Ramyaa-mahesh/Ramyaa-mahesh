@@ -27,13 +27,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa-mahesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramyaa-mahesh" alt="ramyaa-mahesh" /></a> </p>
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -42,6 +35,15 @@
 <a href="https://instagram.com/ramyaa_maheshwaran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramyaa_maheshwaran_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ramyaa m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramyaa m" height="30" width="40" /></a>
 </p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa-mahesh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramyaa-mahesh" alt="ramyaa-mahesh" /></a> </p>
+
+
+
 
 
 
